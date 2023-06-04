@@ -1,13 +1,19 @@
-Портфолио: инженер по тестированию
-Обо мне
+                                                            Портфолио: инженер по тестированию
+
+   Обо мне:
+
 Привет! Меня зовут Настя, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-Навыки и технологии
+
+   Навыки и технологии:
+
 Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
-Проекты
+
+Проекты:
+
 Проект 1: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
@@ -27,6 +33,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Итог №1
 Итог №2
 
+
 Проект 2: тест кабинета учителя в приложении Skyeng
 
 Что нужно было сделать:
@@ -41,7 +48,11 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Итог №1
 Итог №2
-Контактная информация
+
+Контактная информация:
+
 Email: kyian4ik_75@mail.ru
+
 Telegram: https://t.me/NASTYA_KUYAN
+
 Mobile phone: 89217826981
