@@ -63,9 +63,9 @@
 
 ## Контактная информация:
 
-- <img src="https://img.shields.io/badge/@mail-blue?style=for-the-badge&logo=@mail&logoColor=yellow" alt="@mail Badge"/> kyian4ik_75@mail.ru
+- <img src="https://img.shields.io/badge/@mail-orange?style=for-the-badge&logo=@mail&logoColor=yellow" alt="@mail Badge"/> kyian4ik_75@mail.ru
 
 - <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/> https://t.me/NASTYA_KUYAN
 
-- <img src="https://img.shields.io/badge/Mobile phone-blue?style=for-the-badge&logo=Mobile phone&logoColor=white" alt="Mobile phone Badge"/> 89217826981
+- <img src="https://img.shields.io/badge/Mobile phone-darkgreen?style=for-the-badge&logo=Mobile phone&logoColor=white" alt="Mobile phone Badge"/> 89217826981
 
