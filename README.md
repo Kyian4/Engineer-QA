@@ -1,5 +1,11 @@
                                                             Портфолио: инженер по тестированию
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
+</div>
+
+
    Обо мне:
 
 Привет! Меня зовут Настя, я начинающий тестировщик.
