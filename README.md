@@ -203,5 +203,4 @@ lat - 55
 
 - <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/> https://t.me/NASTYA_KUYAN
 
-- <img src="https://img.shields.io/badge/Mobile phone-darkgreen?style=for-the-badge&logo=Mobile phone&logoColor=white" alt="Mobile phone Badge"/> 89217826981
 
